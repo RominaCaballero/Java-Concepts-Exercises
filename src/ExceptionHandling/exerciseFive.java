@@ -16,6 +16,7 @@ public class exerciseFive {
             System.out.println("Error: " + e.getMessage());
         }
     }
+
     public static void readFile(String fileName) throws FileNotFoundException, EmptyFileException {
         File file = new File(fileName);
         Scanner scanner = new Scanner(file);
