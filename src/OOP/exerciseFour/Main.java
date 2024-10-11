@@ -1,4 +1,4 @@
-package exerciseFour;
+package OOP.exerciseFour;
 /*Write a Java program to create a class called "Circle"
 with a radius attribute.
 You can access and modify this attribute.

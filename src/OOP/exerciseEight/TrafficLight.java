@@ -1,4 +1,4 @@
-package exerciseEight;
+package OOP.exerciseEight;
 
 public class TrafficLight {
     private String color;

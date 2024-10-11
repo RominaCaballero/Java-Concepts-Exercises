@@ -1,4 +1,4 @@
-package exerciseSeven;
+package OOP.exerciseSeven;
 
 public class Account {
     private String name;
