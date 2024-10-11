@@ -1,4 +1,4 @@
-package exerciseThree;
+package OOP.exerciseThree;
 
 public class Rectangle {
     private double height;

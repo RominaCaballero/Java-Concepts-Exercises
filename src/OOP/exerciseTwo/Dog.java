@@ -1,4 +1,4 @@
-package exerciseTwo;
+package OOP.exerciseTwo;
 
 public class Dog {
     private String name;
