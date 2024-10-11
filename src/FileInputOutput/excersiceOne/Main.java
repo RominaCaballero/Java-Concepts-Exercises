@@ -10,7 +10,6 @@ public class Main {
         String[] fileList = file.list();
         for(String name:fileList){
             System.out.println(name);
-
         }
     }
 }
