@@ -1,8 +1,8 @@
-package ExceptionHandling.exerciseTwo;
+package ExceptionHandling;
 /* Write a Java program to create a method that takes an integer
  as a parameter and throws an exception if the number is odd.
  */
-public class Main {
+public class exerciseTwo {
     public static void main(String[] args) {
         int number = 2;
         takeInteger(number);

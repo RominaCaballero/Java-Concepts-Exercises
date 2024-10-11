@@ -1,7 +1,7 @@
-package ExceptionHandling.exerciseOne;
+package ExceptionHandling;
 //Write a Java program that throws an exception and catch it using a try-catch block.
 
-public class Main {
+public class exerciseOne {
     public static void main(String[] args) {
         try {
             int result = divideNumbers(5, 0);
