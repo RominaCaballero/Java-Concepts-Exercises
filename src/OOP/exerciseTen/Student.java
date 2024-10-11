@@ -1,4 +1,4 @@
-package exerciseTen;
+package OOP.exerciseTen;
 
 import java.util.ArrayList;
 

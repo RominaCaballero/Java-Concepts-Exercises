@@ -1,4 +1,4 @@
-package exerciseFour;
+package OOP.exerciseFour;
 
 public class Circle {
     private double radius;
