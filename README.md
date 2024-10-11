@@ -8,7 +8,7 @@ Welcome to my Java Concepts Repository! This repository serves as a collection o
 - Exception Handling
 - File Input/Output
 
-## Structure
+## Expected Structure
 
 The repository is organized into folders based on different Java concepts and topics. Each folder contains exercises, sample code, and notes. And some of these are:
 
