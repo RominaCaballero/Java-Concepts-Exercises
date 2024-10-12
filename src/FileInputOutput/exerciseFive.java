@@ -5,7 +5,7 @@ import java.io.File;
 //Write a Java program to check if the given pathname is a directory or a file.
 public class exerciseFive {
     public static void main(String[] args) {
-        File file = new File("home/archives/archive");
+        File file = new File("home/archives/archive.txt");
         if(file.isDirectory()){
             System.out.println("is a directory");
         } else {
