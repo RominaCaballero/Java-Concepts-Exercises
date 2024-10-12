@@ -5,8 +5,8 @@ Welcome to my Java Concepts Repository! This repository serves as a collection o
 ## Table of Contents
 
 - [OOP](./src/OOP/)
-- [Exception Handling](./src/ExceptionHandling.exerciseOne/)
-- [File Input/Output](./src/FileInputOutput.excersiceOne/)
+- [Exception Handling](./src/ExceptionHandling/)
+- [File Input/Output](./src/FileInputOutput/)
 
 ## Expected Structure
 
